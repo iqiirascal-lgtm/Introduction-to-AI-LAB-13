@@ -1,0 +1,37 @@
+{
+  "David Smith": {
+    "The Help": 4.5,
+    "Midnight in Paris": 5.0,
+    "Super 8": 3.0,
+    "Moneyball": 4.0,
+    "Warrior": 0.0
+  },
+  "Bill Duffy": {
+    "The Help": 5.0,
+    "Midnight in Paris": 4.5,
+    "Super 8": 3.5,
+    "Moneyball": 0.0,
+    "Warrior": 4.0
+  },
+  "Chris Duncan": {
+    "The Help": 4.0,
+    "Midnight in Paris": 5.0,
+    "Super 8": 2.5,
+    "Moneyball": 0.0,
+    "Warrior": 0.0
+  },
+  "Clarissa Jackson": {
+    "The Help": 3.0,
+    "Midnight in Paris": 4.0,
+    "Super 8": 4.5,
+    "Moneyball": 3.5,
+    "Warrior": 2.0
+  },
+  "Julie Hammel": {
+    "The Help": 5.0,
+    "Midnight in Paris": 4.5,
+    "Super 8": 0.0,
+    "Moneyball": 4.5,
+    "Warrior": 5.0
+  }
+}
